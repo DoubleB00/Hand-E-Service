@@ -1,25 +1,25 @@
-import { Clock, DollarSign, MapPin, ThumbsUp } from 'lucide-react';
+import { Calendar, Users, DollarSign, Clock } from 'lucide-react';
 
 const features = [
   {
-    icon: Clock,
-    title: 'Reliable & On-Time',
-    description: 'We respect your time and always arrive when scheduled.',
+    icon: Calendar,
+    title: 'Servicing Brevard County since 2023',
+    description: 'Proudly serving our local community with dedication and care.',
+  },
+  {
+    icon: Users,
+    title: 'Family-Owned and Operated',
+    description: 'A local family business committed to excellence and customer satisfaction.',
   },
   {
     icon: DollarSign,
-    title: 'Fair Pricing',
-    description: 'Transparent, competitive rates with no hidden fees.',
+    title: 'Reliable, Affordable, and Professional',
+    description: 'Quality service at competitive prices you can count on.',
   },
   {
-    icon: MapPin,
-    title: 'Locally Owned & Operated',
-    description: 'Proud to serve our Brevard County community.',
-  },
-  {
-    icon: ThumbsUp,
-    title: 'Friendly, Professional Service',
-    description: 'Courteous team dedicated to exceeding your expectations.',
+    icon: Clock,
+    title: 'Open Sunday–Saturday',
+    description: 'Available every day of the week to meet your scheduling needs.',
   },
 ];
 
