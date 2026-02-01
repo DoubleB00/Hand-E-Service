@@ -27,9 +27,22 @@ export default function Contact() {
               Text Us
             </a>
           </div>
-          <p className="text-3xl md:text-4xl font-bold text-gray-900">
+          <p className="text-3xl md:text-4xl font-bold text-gray-900 mb-10">
             321-291-9480
           </p>
+          <div className="border-t border-gray-200 pt-10">
+            <p className="text-gray-600 text-base md:text-lg mb-4">
+              Happy with our service? We'd really appreciate your feedback!
+            </p>
+            <a
+              href="https://g.page/r/CW_Q5YQRWK6UEBM/review"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold text-lg md:text-xl transition-colors shadow-lg"
+            >
+              ⭐ Leave Us a Google Review
+            </a>
+          </div>
         </div>
       </div>
     </section>

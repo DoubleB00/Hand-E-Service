@@ -16,6 +16,14 @@ export default function Footer() {
           <p className="text-gray-400 mb-6">
             Call or text today for a free estimate
           </p>
+          <a
+            href="https://g.page/r/CW_Q5YQRWK6UEBM/review"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold text-base md:text-lg transition-colors shadow-lg mb-8"
+          >
+            ⭐ Leave Us a Google Review
+          </a>
           <p className="text-gray-500 text-sm">
             © {new Date().getFullYear()} HAND "E" Service. All rights reserved.
           </p>
