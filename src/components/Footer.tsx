@@ -17,7 +17,7 @@ export default function Footer() {
             Call or text today for a free estimate
           </p>
           <a
-            href="https://g.page/r/CW_Q5YQRWK6UEBM/review"
+            href="https://search.google.com/local/writereview?placeid=ChIJeTQFbvsgMQgRxeL8if39Anc&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold text-base md:text-lg transition-colors shadow-lg mb-8"
